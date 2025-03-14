@@ -54,6 +54,7 @@ Jumlah data : **870 sampel** (lebih dari 500, sesuai kriteria submission).
 - ✔ Korelasi antara tahun dan rata-rata gaji.
 
 ![image](https://github.com/user-attachments/assets/6d0b9b32-6ed5-4498-b599-1ed5928f2561)
+
 Visualisasi diatas menunjukkan bahwa : Gaji nasional cenderung meningkat setiap tahun, tetapi dengan pola fluktuatif di beberapa tahun.
 
 ---
