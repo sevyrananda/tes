@@ -44,14 +44,17 @@ Dataset yang digunakan berisi informasi gaji di berbagai wilayah Indonesia dari 
 - **SALARY**: Jumlah gaji rata-rata.
 - **YEAR**: Tahun pencatatan data.
 
-[Sumber Dataset](https://www.kaggle.com/datasets/linkgish/indonesian-salary-by-region-19972022)
+   Dataset : [Sumber Dataset](https://www.kaggle.com/datasets/linkgish/indonesian-salary-by-region-19972022)
 
-Jumlah data: **870 sampel** (lebih dari 500, sesuai kriteria submission).
+Jumlah data : **870 sampel** (lebih dari 500, sesuai kriteria submission).
 
 **Exploratory Data Analysis (EDA):**
 - ✔ Tren kenaikan gaji dari tahun ke tahun.
 - ✔ Distribusi gaji di berbagai wilayah.
 - ✔ Korelasi antara tahun dan rata-rata gaji.
+
+![image](https://github.com/user-attachments/assets/6d0b9b32-6ed5-4498-b599-1ed5928f2561)
+Visualisasi diatas menunjukkan bahwa : Gaji nasional cenderung meningkat setiap tahun, tetapi dengan pola fluktuatif di beberapa tahun.
 
 ---
 
