@@ -100,11 +100,18 @@ Model terbaik dipilih berdasarkan nilai RMSE dan MAE yang paling rendah.
 
 Metrik evaluasi yang digunakan:
 1. **RMSE (Root Mean Squared Error)** - mengukur seberapa jauh prediksi dari nilai aktual.
-   \[ RMSE = \sqrt{\frac{\sum (y_{actual} - y_{predicted})^2}{n}} \]
-2. **MAE (Mean Absolute Error)** - mengukur rata-rata error absolut dari prediksi.
-   \[ MAE = \frac{\sum |y_{actual} - y_{predicted}|}{n} \]
-3. **MSE (Mean Squared Error)** – Mengukur error dengan memberi bobot lebih besar pada kesalahan yang lebih besar.
-    \[ MAE = \frac{\sum (y_{actual} - y_{predicted})^2}{n} \]
+   
+   ![image](https://github.com/user-attachments/assets/948cc8f0-0cf7-48b1-9c3f-c3ac993f2825)
+
+3. **MAE (Mean Absolute Error)** - mengukur rata-rata error absolut dari prediksi.
+
+   ![image](https://github.com/user-attachments/assets/d5a3871a-4899-4085-91cd-04f346a9440d)
+
+   
+4. **MSE (Mean Squared Error)** – Mengukur error dengan memberi bobot lebih besar pada kesalahan yang lebih besar.
+
+   ![image](https://github.com/user-attachments/assets/17429587-bf89-452d-b191-e42a098b758e)
+--
 
 **Hasil Evaluasi Nasional**
 1. ARIMA RMSE: 2.68 juta
