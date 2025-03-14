@@ -112,7 +112,6 @@ Metrik evaluasi yang digunakan:
 
    ![image](https://github.com/user-attachments/assets/17429587-bf89-452d-b191-e42a098b758e)
    
---
 
 **Hasil Evaluasi Nasional**
 1. ARIMA RMSE: 2.68 juta
