@@ -111,6 +111,7 @@ Metrik evaluasi yang digunakan:
 4. **MSE (Mean Squared Error)** – Mengukur error dengan memberi bobot lebih besar pada kesalahan yang lebih besar.
 
    ![image](https://github.com/user-attachments/assets/17429587-bf89-452d-b191-e42a098b758e)
+   
 --
 
 **Hasil Evaluasi Nasional**
